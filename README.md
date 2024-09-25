@@ -1,16 +1,15 @@
-# Hi, I'm [Omar Faruk Sarkar] 👋
+# Hello! I'm Omar Faruk Sarkar 👨‍💻
 
-I am a Full-Stack Web Developer passionate about building web applications and learning new things about programming. I enjoy tackling challenges, working with different technologies, and constantly expanding my skill set.
+A passionate **Full-Stack Web Developer** who enjoys exploring new programming trends, frameworks, and best practices. I believe in continuous learning and improving both my technical and soft skills.
 
-## 🚀 Skills
-- HTML, CSS, JavaScript
-- Node.js, Express
-- React
-- MongoDB, SQL
-- Git, GitHub
+## 🛠️ **Tech Stack**:
+- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD81F?style=flat&logo=javascript&logoColor=333)
+- **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white), ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=333)
+- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white), ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+- **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
 
-Feel free to check out my projects and connect with me!
+## 🌍 **Contact Me**:
+- GitHub: [![GitHub Badge](https://img.shields.io/badge/-frksarkar-181717?style=flat&logo=github&logoColor=white)](https://github.com/frksarkar)
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/frksarkar)](https://github.com/frksarkar)
-
-Thanks for visiting my profile!
+---
+_"Building today for a better tomorrow!"_ 😄
