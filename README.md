@@ -11,6 +11,7 @@ A passionate **Full-Stack Web Developer** who enjoys exploring new programming t
 
 ## 🌍 **Contact Me**:
 - GitHub: [![GitHub Badge](https://img.shields.io/badge/-frksarkar-181717?style=flat&logo=github&logoColor=white)](https://github.com/frksarkar)
+- Gmail: [![gmail](https://img.shields.io/badge/just%20the%20message-8A2BE2)](frksarkar@gmail.com)
 
 ---
 _"Building today for a better tomorrow!"_ 😄
