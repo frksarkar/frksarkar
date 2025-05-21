@@ -11,7 +11,6 @@ A passionate **Full-Stack Software Engineer** who enjoys exploring new technolog
 
 ## ✅ Currently Practicing
 - **Agile Methodologies** – including Scrum, Sprint Planning, and Standups
-- Writing clean, maintainable code in team-based environments
 
 ## 🌍 Contact Me:
 - GitHub: [![GitHub Badge](https://img.shields.io/badge/-frksarkar-181717?style=flat&logo=github&logoColor=white)](https://github.com/frksarkar)
