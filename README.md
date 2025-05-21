@@ -1,6 +1,6 @@
 # Hello! I'm Omar Faruk Sarkar 👨‍💻
 
-A passionate **Full-Stack Web Developer** who enjoys exploring new programming trends, frameworks, and best practices. I believe in continuous learning and improving both my technical and soft skills.
+A passionate **Full-Stack software engineer** who enjoys exploring new programming trends, frameworks, and best practices. I believe in continuous learning and improving both my technical and soft skills.
 
 ## 🛠️ **Tech Stack**:
 - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD81F?style=flat&logo=javascript&logoColor=333), ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=fff)
